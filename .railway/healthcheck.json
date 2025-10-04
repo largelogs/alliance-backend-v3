@@ -1,0 +1,5 @@
+{
+  "path": "/health",
+  "timeoutSeconds": 5,
+  "initialDelaySeconds": 10
+}
